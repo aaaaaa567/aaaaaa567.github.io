@@ -1,0 +1,22 @@
+a.link{
+    display: block;
+    border: 3px solid rgb(95, 10, 116);
+
+    font-size: 32px;
+    padding: 10px;
+    border-radius: 20px;
+
+    text-decoration: none;
+    color: black;
+
+    transition: 0.4s;
+}
+a.link:hover{
+    background-color:aquamarine
+}
+
+img{
+    width: 32px;
+    vertical-align: middle;
+    margin: 16px 0;
+}
