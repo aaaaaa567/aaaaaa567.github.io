@@ -1,4 +1,5 @@
-a.link{
+.link{
+    cursor: pointer;
     display: block;
     border: 3px solid rgb(95, 10, 116);
 
@@ -11,7 +12,7 @@ a.link{
 
     transition: 0.4s;
 }
-a.link:hover{
+.link:hover{
     background-color:aquamarine
 }
 
